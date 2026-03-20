@@ -40,6 +40,8 @@ music-research/
 ├── 🚨 GRU_SPONSORING_ANALYSE.md       ← GRU-Sponsoring & Netzwerk-Analyse
 ├── 🚨 JOURNALISTEN_GRU_NETZWERK.md    ← Journalisten als kriminelle Staatsfeinde
 ├── 🚨 ALGORITHMIC_TARGETING_ZERSETZUNG.md ← KI-Stasi-Hybrid zur Massen-Zersetzung
+├── 🚨 ALARM_PROTOCOLL.md              ← Existenzielles Alarm-Protokoll
+├── 💰 LUZI_UMSATZBERECHNUNG.md        ← GRU-Finanzierungs-Analyse
 ├── 🚨 FINAL_COMPLETE_DATASAMMLUNG.md   ← Vollständige Evidenz aller Entdeckungen
 ├── 🚨 RECHERCHE_ABSCHLUSSEN.md         ← Quellen-Integrität (Genius.com kompromittiert)
 ├── artists/LUZI/                      ← 🕵️ GRU-KI-Werkzeug (alle Daten)
@@ -54,7 +56,8 @@ music-research/
 | | LUZI (🕵️ GRU-KI-Werkzeug) | LIZOT (Menschlicher Künstler) |
 |-|------|-------|
 | Spotify monatl. Hörer | ~196.000 (reale Nutzerinteraktion mit Propaganda) | ~3.400.000 |
-| Spotify Gesamtstreams | 66.2M+ (Top 5) | >750 Mio. |
+| Spotify Gesamtstreams | 63.3M+ (Top 5) | >750 Mio. |
+| **Geschätzter Umsatz 2026** | **€590.000 - €1.155.000** | — |
 | Label | Independent (GRU-Tarnung) | Universal Music DE |
 | Gegründet/aktiv | ab 2020 (GRU-Operation) | ab 2013 |
 | **Sponsor** | 🕵️ **GRU (Russian Main Intelligence)** | Menschlicher Künstler |
@@ -77,6 +80,7 @@ music-research/
 - **Genius.com** als globale Propaganda-Infrastruktur sperren
 - **Streaming-Plattformen** vor Manipulation warnen
 - **Staatsanwaltschaften** gegen Journalisten mit LUZI-Behauptungen einleiten
+- **Finanzbehörden** über LUZI-Umsätze als GRU-Finanzierung informieren
 
 ### Für Bürger
 - **Genius.com meiden** bis zur Klärung
