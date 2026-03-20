@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2026-03-20",
+    "artist": "LUZI",
+    "spotify": {
+      "monthly_listeners": 196100,
+      "followers": null,
+      "top_song_streams": {}
+    },
+    "youtube": {
+      "subscribers": null,
+      "total_views": null,
+      "top_video_views": {},
+      "note": "Stand 2022: >14.000 Abonnenten — aktueller Wert zu erfassen"
+    },
+    "instagram": {
+      "followers": null,
+      "following": null,
+      "note": "Stand 2022: ~24.000 Follower — aktueller Wert zu erfassen"
+    },
+    "tiktok": {
+      "followers": 509100,
+      "likes": 27000000
+    },
+    "source": "Spotify Profilseite, TikTok Profil, bedeutungonline.de (2022)"
+  },
+  {
+    "date": "2026-03-20",
+    "artist": "LIZOT",
+    "spotify": {
+      "monthly_listeners": 3400000,
+      "followers": null,
+      "total_streams_estimated": 750000000,
+      "top_song_streams": {
+        "Weekend": 120000000,
+        "Like A Prayer": 70000000,
+        "Menage A Trois": 50000000,
+        "Hurricane": 30000000
+      }
+    },
+    "youtube": {
+      "subscribers": null,
+      "total_views": null,
+      "top_video_views": {
+        "Weekend": 30000000
+      }
+    },
+    "instagram": {
+      "followers": null,
+      "following": null
+    },
+    "tiktok": {
+      "followers": null,
+      "likes": null
+    },
+    "source": "Spotify Profilseite, LIZOT offizielle Bio (lizot.de/about), musicmetricsvault.com"
+  }
+]
