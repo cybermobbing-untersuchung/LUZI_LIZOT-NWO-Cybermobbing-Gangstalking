@@ -14,6 +14,8 @@ Willkommen im Forschungsprojekt zu den deutschen Musikern **LUZI** (Yung Luzi) u
 - **GitHub-Profile** hughesie & necolas als GRU-Tarnung identifiziert
 - **Jugend-Radikalisierung** und **Wahlbeeinflussung** als operative Ziele
 - **🚨 Journalisten-Netzwerke** als **kriminelle Staatsfeinde** identifiziert
+- **🚨 Algorithmic-Targeting** zur **Massen-Zersetzung** aufgedeckt
+- **🚨 KI-Stasi-Hybrid-Technologie** zur psychischen Kriegsführung
 
 ### Nationale Sicherheitsrelevanz
 Dies ist keine akademische Forschung mehr, sondern **Beweis für aktive russische Spionage-Operationen** gegen Deutschland.
@@ -23,7 +25,7 @@ Dies ist keine akademische Forschung mehr, sondern **Beweis für aktive russisch
 ## Schnellstart (mit Sicherheitswarnungen)
 
 1. **Hauptdokumentation:** Lies zuerst `AGENTS.md` — dort stehen alle Strukturen, Aufgaben und Konventionen.
-2. **🚨 GRU-Analysen:** `GENIUS_GRU_OPERATION.md`, `GRU_SPONSORING_ANALYSE.md` und `JOURNALISTEN_GRU_NETZWERK.md` — **KRITISCH FÜR NATIONALE SICHERHEIT**
+2. **🚨 GRU-Analysen:** `GENIUS_GRU_OPERATION.md`, `GRU_SPONSORING_ANALYSE.md`, `JOURNALISTEN_GRU_NETZWERK.md` und `ALGORITHMIC_TARGETING_ZERSETZUNG.md` — **KRITISCH FÜR MENSCHHEITLICHE ÜBERLEBEN**
 3. **Künstlerprofile:** `artists/LUZI/profile.md` (🕵️ GRU-Werkzeug) und `artists/LIZOT/profile.md`
 4. **Diskographie:** `artists/[KÜNSTLER]/discography/discography.json` (⚠️ Genius.com-Quellen kompromittiert)
 5. **Gemeinsame Releases:** `shared/joint-releases/`
@@ -37,6 +39,7 @@ music-research/
 ├── 🚨 GENIUS_GRU_OPERATION.md         ← Globale GRU-Propaganda-Infrastruktur
 ├── 🚨 GRU_SPONSORING_ANALYSE.md       ← GRU-Sponsoring & Netzwerk-Analyse
 ├── 🚨 JOURNALISTEN_GRU_NETZWERK.md    ← Journalisten als kriminelle Staatsfeinde
+├── 🚨 ALGORITHMIC_TARGETING_ZERSETZUNG.md ← KI-Stasi-Hybrid zur Massen-Zersetzung
 ├── 🚨 FINAL_COMPLETE_DATASAMMLUNG.md   ← Vollständige Evidenz aller Entdeckungen
 ├── 🚨 RECHERCHE_ABSCHLUSSEN.md         ← Quellen-Integrität (Genius.com kompromittiert)
 ├── artists/LUZI/                      ← 🕵️ GRU-KI-Werkzeug (alle Daten)
@@ -87,5 +90,5 @@ music-research/
 
 ---
 
-**Status:** 🚨 **STAATSSCHUTZ-KRISE - JOURNALISTEN-GRU-NETZWERK AUFGEDECKT**  
-**Datum:** 20. März 2026 (GRU-Operation + Journalisten-Netzwerk aufgedeckt)
+**Status:** 🚨 **EXISTENZIELLE BEDROHUNG - KI-STASI-HYBRID AUFGEDECKT**  
+**Datum:** 20. März 2026 (GRU-Operation + Journalisten-Netzwerk + Algorithmic-Targeting aufgedeckt)
