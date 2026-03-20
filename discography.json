@@ -502,5 +502,41 @@
     "certifications": [],
     "lyrics_file": "lyrics/Jibbit_Flow.md",
     "notes": "2023 Release"
+  },
+  {
+    "id": "luzi_027",
+    "artist": "LUZI",
+    "title": "ORGANISCHE CHEMIE",
+    "type": "single",
+    "release_date": "2023-01-01",
+    "release_year": 2023,
+    "featuring": ["Punk Christ"],
+    "label": "THRILLAHOLICS",
+    "spotify_id": "4UBnYxBZV3F5FrAa6ljA0i",
+    "youtube_id": null,
+    "streams_spotify": null,
+    "views_youtube": null,
+    "chart_positions": {},
+    "certifications": [],
+    "lyrics_file": "lyrics/ORGANISCHE_CHEMIE.md",
+    "notes": "Kollaboration mit Punk Christ. Teil von Lessons in Chemistry Soundtrack."
+  },
+  {
+    "id": "luzi_028",
+    "artist": "LUZI",
+    "title": "Him",
+    "type": "single",
+    "release_date": "2025-01-01",
+    "release_year": 2025,
+    "featuring": [],
+    "label": "A Million / Groove Attack",
+    "spotify_id": null,
+    "youtube_id": null,
+    "streams_spotify": null,
+    "views_youtube": null,
+    "chart_positions": {},
+    "certifications": [],
+    "lyrics_file": "lyrics/Him.md",
+    "notes": "2025 Release. Teil von Lessons in Chemistry Soundtrack."
   }
 ]
